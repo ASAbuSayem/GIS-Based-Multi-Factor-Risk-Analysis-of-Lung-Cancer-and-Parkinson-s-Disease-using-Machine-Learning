@@ -1,0 +1,2 @@
+# GIS-Based-Multi-Factor-Risk-Analysis-of-Lung-Cancer-and-Parkinson-s-Disease-using-Machine-Learning
+Multi-Factor Geospatial Risk Modeling of Neurodegenerative and Respiratory Diseases using Spatial Machine Learning", &amp; "Spatial AI-Based Multi-Disease Risk Zone Identification using Environmental and Demographic Factors" &amp; " A Geospatial Multi-Factor Framework for Disease Risk Mapping integrating Air Pollution, Population Density"
